@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CollabMed | Mentorship for Future Doctors</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9fafb;
+      color: #111827;
+    }
+    header {
+      background: #2563eb;
+      color: white;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+    header a.button {
+      background: white;
+      color: #2563eb;
+      padding: 0.75rem 1.25rem;
+      font-weight: 600;
+      border-radius: 0.5rem;
+      text-decoration: none;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+    section {
+      margin-bottom: 2.5rem;
+    }
+    section h2 {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+      color: #1d4ed8;
+    }
+    section ul {
+      padding-left: 1.25rem;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.875rem;
+      color: #6b7280;
+      padding: 2rem 1.5rem;
+    }
+    a {
+      color: #2563eb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CollabMed</h1>
+    <p>Mentorship and community for future doctors — from high school to med school.</p>
+    <a href="https://your-google-form-link.com" class="button">Apply Now</a>
+  </header>
+
+  <main>
+    <section>
+      <h2>What We Do</h2>
+      <p>CollabMed is a student-led organization connecting aspiring healthcare professionals at every stage — high school, pre-med, and medical students — through 1-on-1 mentorship and community programming.</p>
+    </section>
+
+    <section>
+      <h2>Programs</h2>
+      <ul>
+        <li>High School Students → College Pre-Med Mentors</li>
+        <li>College Pre-Meds → Medical Student Mentors</li>
+        <li>Optional biweekly check-ins and shared resources</li>
+        <li>Live events, workshops, and speaker panels</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Get Involved</h2>
+      <p>We're currently accepting students and volunteers for:</p>
+      <ul>
+        <li>Mentorship (Mentees & Mentors)</li>
+        <li>Marketing & Social Media</li>
+        <li>Outreach & Fundraising</li>
+        <li>Program Development</li>
+      </ul>
+      <p><a href="https://your-google-form-link.com">Apply here to join</a>.</p>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:collabmed@gmail.com">collabmed@gmail.com</a></p>
+      <p>Instagram: <a href="https://instagram.com/collabmed">@collabmed</a></p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 CollabMed. All rights reserved.
+  </footer>
+</body>
+</html>
